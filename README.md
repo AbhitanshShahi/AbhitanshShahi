@@ -210,7 +210,7 @@ Full-stack ecommerce application.
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/AbhitanshShahi/AbhitanshShahi/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
