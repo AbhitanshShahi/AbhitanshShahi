@@ -199,18 +199,6 @@ Full-stack ecommerce application.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhitanshShahi&show_icons=true&theme=dracula" height="160"/>
-
-<img src="https://streak-stats.demolab.com?user=AbhitanshShahi&theme=dracula&hide_border=false" height="160"/>
-
-</div>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhitanshShahi&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
 <img src="https://streak-stats.demolab.com?user=AbhitanshShahi&theme=tokyonight&hide_border=true" height="160"/>
