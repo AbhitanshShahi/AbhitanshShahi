@@ -1,32 +1,220 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abhitansh Shahi
-========================================================================================================================================
+<h1 align="center">Hey 👋 I'm Abhitansh Shahi</h1>
 
-Full Stack developer | AI Engineer | ML Engineer
-------------------------------------------------
+<h3 align="center">
+Full Stack Developer | AI Engineer | Building AI-powered products
+</h3>
 
-I'm a B.Tech Computer Science student, Full-Stack Developer, and Machine Learning Engineer passionate about building intelligent software that solves real-world problems. I enjoy taking ideas from concept to deployment—designing intuitive user experiences, developing scalable backend systems, and integrating AI to build practical, data-driven products.
-
-My interests lie at the intersection of Full-Stack Engineering, AI, and Machine Learning, where I can combine strong software engineering principles with modern ML techniques to create impactful applications.
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://abhitanshshahi.vercel.app)
-* ✉️  You can contact me at [abhitanshshahi@gmail.com](mailto:abhitanshshahi@gmail.com)
-* 🧠  I'm currently learning AI Engineering and Agentic AI
-* 👥  I'm looking to collaborate on Full stack projects (Backend heavy) and AI/ML projects
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<p align="center">
+I build scalable web applications and AI systems using modern technologies.
+Currently working on <b>Lumora</b> — an AI Interview Simulator designed to simulate
+real interview experiences and generate personalized performance insights.
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/AbhitanshShahi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/AbhitanshShahi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/abhitansh-shahi-543859200" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+<h2 align="center">🚀 Tech Stack</h2>
 
-<b>My GitHub Stats</b>
+<div align="center">
 
-<a href="http://www.github.com/AbhitanshShahi"><img src="https://github-readme-stats.vercel.app/api?username=AbhitanshShahi&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbhitanshShahi's GitHub stats" /></a>
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python" height="50" />
+<img width="10" />
 
-<a href="http://www.github.com/AbhitanshShahi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhitanshShahi&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://skillicons.dev/icons?i=typescript" height="50" />
+<img width="10" />
 
-<a href="https://github.com/AbhitanshShahi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhitanshShahi&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://skillicons.dev/icons?i=javascript" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=cpp" height="50" />
+<img width="10" />
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+<img width="10" />
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=fastapi" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=express" height="50" />
+<img width="10" />
+
+<!-- Databases & Storage -->
+<img src="https://skillicons.dev/icons?i=postgres" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=redis" height="50" />
+
+<br><br>
+
+<!-- AI / ML -->
+<img src="https://skillicons.dev/icons?i=pytorch" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=sklearn" height="50" />
+
+<br><br>
+
+<!-- DevOps & Cloud -->
+<img src="https://skillicons.dev/icons?i=docker" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=aws" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=linux" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=nginx" height="50" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=git" height="50" />
+
+</div>
+<h2 align="center">🤖 AI & Machine Learning</h2>
+
+<div align="center">
+
+Large Language Models • Generative AI • RAG Systems  
+Prompt Engineering • AI Agents • Embeddings  
+OpenAI API • Groq API • Hugging Face  
+Whisper • Scikit-learn • XGBoost
+
+</div>
+
+---
+
+<h2 align="center">🧠 Areas I Work In</h2>
+
+<div align="center">
+
+AI Engineering • Machine Learning • Full Stack Development  
+Backend Systems • Generative AI • LLM Applications  
+Data Structures & Algorithms • System Design
+
+</div>
+
+---
+
+<h2 align="center">🚧 Currently Building</h2>
+
+### 🟣 Lumora — AI Interview Simulator *(In Progress)*
+
+Building an AI Interview Simulator designed to simulate real interview experiences and provide personalized performance insights.
+
+**Current Work:**
+- AI-generated interview questions
+- Resume-based interview context extraction
+- LLM-powered answer evaluation
+- Speech-to-text interview responses
+- Performance analytics and feedback reports
+
+**Tech:**
+- FastAPI
+- PostgreSQL (Neon)
+- SQLAlchemy
+- Groq LLM API
+- Whisper Speech-to-Text
+- React / Next.js
+
+---
+
+<h2 align="center">🔥 Featured Projects</h2>
+
+### ⚽ Football Match Outcome Prediction System
+
+Machine Learning system predicting football match outcomes using historical data.
+
+**Tech:**
+- Python
+- Scikit-learn
+- Random Forest
+- XGBoost
+- FastAPI
+- Streamlit
+
+
+### 🤖 VedaAI — AI Assessment Platform
+
+AI-powered assessment generation platform.
+
+**Tech:**
+- Next.js
+- Node.js
+- Express
+- MongoDB
+- Redis
+- BullMQ
+
+
+### 🛒 Donum — Ecommerce Platform
+
+Full-stack ecommerce application.
+
+**Tech:**
+- React
+- Node.js
+- Express
+- MongoDB
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abhitansh-shahi-543859200/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AbhitanshShahi">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://abhitanshshahi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbhitanshShahi&show_icons=true&theme=dracula" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhitanshShahi&theme=dracula" height="160"/>
+
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<h3 align="center">
+Building, learning, and shipping AI-powered products 🚀
+</h3>
