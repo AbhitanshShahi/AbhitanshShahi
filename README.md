@@ -207,11 +207,15 @@ Full-stack ecommerce application.
 
 ---
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/AbhitanshShahi/AbhitanshShahi/gh-pages/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhitanshShahi&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=AbhitanshShahi&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
 
 ---
 
