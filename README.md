@@ -201,7 +201,7 @@ Full-stack ecommerce application.
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbhitanshShahi&show_icons=true&theme=dracula" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhitanshShahi&theme=dracula" height="160"/>
+<img src="https://streak-stats.demolab.com?user=AbhitanshShahi&theme=dracula&hide_border=false" height="160"/>
 
 </div>
 
