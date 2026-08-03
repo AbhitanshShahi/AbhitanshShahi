@@ -211,6 +211,14 @@ Full-stack ecommerce application.
 
 ---
 
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbhitanshShahi/AbhitanshShahi/gh-pages/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 <h3 align="center">
 Building, learning, and shipping AI-powered products 🚀
 </h3>
